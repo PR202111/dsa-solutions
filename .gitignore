@@ -1,0 +1,38 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Compiled executables
+*.exe
+*.out
+*.app
+*.dSYM/
+
+# Vim swap files
+*.swp
+*.swo
+*~
+
+# VS Code settings
+.vscode/settings.json
+.vscode/launch.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+
+# IDE files
+.idea/
+*.iml
+
+# Debug files
+*.dSYM/
+*.su
+*.gch
+
+# Output files from running programs
+*.txt
